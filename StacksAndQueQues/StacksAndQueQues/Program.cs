@@ -6,7 +6,11 @@ namespace StacksAndQueQues
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] thisIsTestForGitHub = new string[5];
+            for (int i = 0; i < thisIsTestForGitHub.Length; i++)
+            {
+                Console.WriteLine("just work please");
+            }
         }
     }
 }
