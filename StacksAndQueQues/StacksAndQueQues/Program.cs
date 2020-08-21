@@ -31,7 +31,7 @@ namespace StacksAndQueQues
                 // print reversed!
                 Console.WriteLine(item);
             }
-
+            // newStack.TrimExcess(); clear empty entries in memory..(almost never used this days)
 
             
         }
