@@ -21,6 +21,19 @@ namespace StacksAndQueQues
             var withoutDeletingLastInStack = myStack.Peek();
             var contains = myStack.Contains("Five");
             
+            var newStack = new Stack<int>();
+            newStack.Push(10);
+            newStack.Push(20);
+            newStack.Push(30);
+
+            foreach (var item in newStack)
+            {
+                // print reversed!
+                Console.WriteLine(item);
+            }
+
+
+            
         }
     }
 }

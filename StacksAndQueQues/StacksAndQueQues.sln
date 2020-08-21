@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "StacksAndQueQues\demo.csproj", "{A64B5DC1-A048-4203-8C6C-3E4AA6097EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01FistStack", "01FistStack\01FistStack.csproj", "{ABEAA605-BF89-4801-9B85-DE440BB921CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01FirstStack", "01FistStack\01FirstStack.csproj", "{ABEAA605-BF89-4801-9B85-DE440BB921CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
