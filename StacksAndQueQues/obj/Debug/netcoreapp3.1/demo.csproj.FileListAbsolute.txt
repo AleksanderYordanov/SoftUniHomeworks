@@ -1,0 +1,13 @@
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\bin\Debug\netcoreapp3.1\demo.exe
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\bin\Debug\netcoreapp3.1\demo.deps.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\bin\Debug\netcoreapp3.1\demo.dll
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\bin\Debug\netcoreapp3.1\demo.pdb
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\obj\Debug\netcoreapp3.1\demo.dll
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\obj\Debug\netcoreapp3.1\demo.pdb
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StacksAndQueQues\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache

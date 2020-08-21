@@ -1,0 +1,13 @@
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\bin\Debug\netcoreapp3.1\01FirstStack.exe
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\bin\Debug\netcoreapp3.1\01FirstStack.deps.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\bin\Debug\netcoreapp3.1\01FirstStack.runtimeconfig.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\bin\Debug\netcoreapp3.1\01FirstStack.runtimeconfig.dev.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\bin\Debug\netcoreapp3.1\01FirstStack.dll
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\bin\Debug\netcoreapp3.1\01FirstStack.pdb
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\obj\Debug\netcoreapp3.1\01FirstStack.csprojAssemblyReference.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\obj\Debug\netcoreapp3.1\01FirstStack.csproj.CoreCompileInputs.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\obj\Debug\netcoreapp3.1\01FirstStack.AssemblyInfoInputs.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\obj\Debug\netcoreapp3.1\01FirstStack.AssemblyInfo.cs
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\obj\Debug\netcoreapp3.1\01FirstStack.dll
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\obj\Debug\netcoreapp3.1\01FirstStack.pdb
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\01FistStack\obj\Debug\netcoreapp3.1\01FirstStack.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\bin\Debug\netcoreapp3.1\MatchingBracets.exe
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\bin\Debug\netcoreapp3.1\MatchingBracets.deps.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\bin\Debug\netcoreapp3.1\MatchingBracets.runtimeconfig.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\bin\Debug\netcoreapp3.1\MatchingBracets.runtimeconfig.dev.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\bin\Debug\netcoreapp3.1\MatchingBracets.dll
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\bin\Debug\netcoreapp3.1\MatchingBracets.pdb
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\obj\Debug\netcoreapp3.1\MatchingBracets.csproj.CoreCompileInputs.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\obj\Debug\netcoreapp3.1\MatchingBracets.AssemblyInfoInputs.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\obj\Debug\netcoreapp3.1\MatchingBracets.AssemblyInfo.cs
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\obj\Debug\netcoreapp3.1\MatchingBracets.dll
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\obj\Debug\netcoreapp3.1\MatchingBracets.pdb
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\MatchingBracets\obj\Debug\netcoreapp3.1\MatchingBracets.genruntimeconfig.cache

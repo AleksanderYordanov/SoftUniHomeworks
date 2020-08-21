@@ -1,0 +1,13 @@
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\bin\Debug\netcoreapp3.1\StackSum.exe
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\bin\Debug\netcoreapp3.1\StackSum.deps.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\bin\Debug\netcoreapp3.1\StackSum.runtimeconfig.dev.json
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\bin\Debug\netcoreapp3.1\StackSum.dll
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\bin\Debug\netcoreapp3.1\StackSum.pdb
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csprojAssemblyReference.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\obj\Debug\netcoreapp3.1\StackSum.csproj.CoreCompileInputs.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfoInputs.cache
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\obj\Debug\netcoreapp3.1\StackSum.AssemblyInfo.cs
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\obj\Debug\netcoreapp3.1\StackSum.dll
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\obj\Debug\netcoreapp3.1\StackSum.pdb
+D:\C#SoftUni\SoftUniHomeworks\StacksAndQueQues\StackSum\obj\Debug\netcoreapp3.1\StackSum.genruntimeconfig.cache
