@@ -5,17 +5,21 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "StacksAndQueQues\demo.csproj", "{A64B5DC1-A048-4203-8C6C-3E4AA6097EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01FirstStack", "01FistStack\01FirstStack.csproj", "{ABEAA605-BF89-4801-9B85-DE440BB921CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01FirstStack", "01FistStack\01FirstStack.csproj", "{ABEAA605-BF89-4801-9B85-DE440BB921CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SimpleCalculator", "02SimpleCalculator\02SimpleCalculator.csproj", "{D6B9AE13-492A-4778-A8EE-1E1D1A1BBA14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02SimpleCalculator", "02SimpleCalculator\02SimpleCalculator.csproj", "{D6B9AE13-492A-4778-A8EE-1E1D1A1BBA14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackSum", "StackSum\StackSum.csproj", "{AE4F7BD4-97ED-4212-8BE8-3B44C3571336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackSum", "StackSum\StackSum.csproj", "{AE4F7BD4-97ED-4212-8BE8-3B44C3571336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBracets", "MatchingBracets\MatchingBracets.csproj", "{E6DEBB25-62DD-4A86-88AA-F834A7909EE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchingBracets", "MatchingBracets\MatchingBracets.csproj", "{E6DEBB25-62DD-4A86-88AA-F834A7909EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotPatato", "HotPatato\HotPatato.csproj", "{B49D544E-3DA6-4A7F-A3D7-35F27B07ED39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotPatato", "HotPatato\HotPatato.csproj", "{B49D544E-3DA6-4A7F-A3D7-35F27B07ED39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficJam", "TrafficJam\TrafficJam.csproj", "{6FA7E275-DC8F-4C5A-9B90-2FADFE26EC14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrafficJam", "TrafficJam\TrafficJam.csproj", "{6FA7E275-DC8F-4C5A-9B90-2FADFE26EC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintEvenNumbers", "PrintEvenNumbers\PrintEvenNumbers.csproj", "{99AEA7BF-9AF5-437E-952F-BEDBFDA46EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket", "Supermarket\Supermarket.csproj", "{61377108-40AD-4D8D-B961-25A7E4F27BC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{6FA7E275-DC8F-4C5A-9B90-2FADFE26EC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA7E275-DC8F-4C5A-9B90-2FADFE26EC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA7E275-DC8F-4C5A-9B90-2FADFE26EC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AEA7BF-9AF5-437E-952F-BEDBFDA46EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AEA7BF-9AF5-437E-952F-BEDBFDA46EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AEA7BF-9AF5-437E-952F-BEDBFDA46EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AEA7BF-9AF5-437E-952F-BEDBFDA46EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61377108-40AD-4D8D-B961-25A7E4F27BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61377108-40AD-4D8D-B961-25A7E4F27BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61377108-40AD-4D8D-B961-25A7E4F27BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61377108-40AD-4D8D-B961-25A7E4F27BC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
