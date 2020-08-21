@@ -33,7 +33,8 @@ namespace StacksAndQueQues
             }
             // newStack.TrimExcess(); clear empty entries in memory..(almost never used this days)
 
-            
+            // Stack - LIFO
+            // Queue - FIFO
         }
     }
 }
